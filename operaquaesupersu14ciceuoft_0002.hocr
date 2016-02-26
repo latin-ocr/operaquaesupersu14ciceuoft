@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaquaesupersu14ciceuoft/operaquaesupersu14ciceuoft_0002.png"; bbox 0 0 1503 2584; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 495 515 982 1024">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 495 515 982 1024">
+     <span class='ocr_line' id='line_1_1' title="bbox 495 515 982 1024; baseline 0 1560"><span class='ocrx_word' id='word_1_1' title='bbox 495 515 982 1024; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 580 1194 878 1236">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 580 1194 878 1236">
+     <span class='ocr_line' id='line_1_2' title="bbox 580 1194 878 1236; baseline 0.007 -2"><span class='ocrx_word' id='word_1_2' title='bbox 580 1194 815 1234; x_wconf 65' lang='lat' dir='ltr'>mtessentcb</span> <span class='ocrx_word' id='word_1_3' title='bbox 837 1201 878 1236; x_wconf 86' lang='lat' dir='ltr'>to</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 516 1283 925 1354">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 516 1283 925 1354">
+     <span class='ocr_line' id='line_1_3' title="bbox 516 1283 925 1354; baseline 0.015 -16"><span class='ocrx_word' id='word_1_4' title='bbox 516 1283 640 1339; x_wconf 68' lang='lat' dir='ltr'>&lt;Ibe</span> <span class='ocrx_word' id='word_1_5' title='bbox 677 1287 925 1354; x_wconf 64' lang='lat' dir='ltr'>‘libram</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 656 1397 785 1435">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 656 1397 785 1435">
+     <span class='ocr_line' id='line_1_4' title="bbox 656 1397 785 1435; baseline 0 -2"><span class='ocrx_word' id='word_1_6' title='bbox 656 1397 698 1433; x_wconf 82' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_7' title='bbox 716 1397 785 1435; x_wconf 83' lang='lat' dir='ltr'>tbe</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 347 1479 1089 1636">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 347 1479 1089 1636">
+     <span class='ocr_line' id='line_1_5' title="bbox 347 1479 1089 1550; baseline 0.015 -16"><span class='ocrx_word' id='word_1_8' title='bbox 347 1479 696 1550; x_wconf 62' lang='lat' dir='ltr'>Universsitp</span> <span class='ocrx_word' id='word_1_9' title='bbox 730 1488 793 1542; x_wconf 88' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_10' title='bbox 823 1487 1089 1545; x_wconf 69' lang='lat' dir='ltr'>(torento</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 693 1596 743 1636; baseline 0.08 -4"><span class='ocrx_word' id='word_1_11' title='bbox 693 1596 743 1636; x_wconf 57' lang='lat' dir='ltr'>bx?</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 204 1667 1261 1771">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 204 1667 1261 1771">
+     <span class='ocr_line' id='line_1_7' title="bbox 204 1667 1261 1771; baseline 0.011 -18"><span class='ocrx_word' id='word_1_12' title='bbox 204 1676 424 1771; x_wconf 55' lang='lat' dir='ltr'>Dm.</span> <span class='ocrx_word' id='word_1_13' title='bbox 503 1678 654 1760; x_wconf 43' lang='grc' dir='ltr'>βψ</span> <span class='ocrx_word' id='word_1_14' title='bbox 712 1685 851 1761; x_wconf 49' lang='lat' dir='ltr'>aa„</span> <span class='ocrx_word' id='word_1_15' title='bbox 923 1667 1261 1749; x_wconf 45' lang='lat' dir='ltr'>affin-moa</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
